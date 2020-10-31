@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {
+      "name": "Car 1",
+      "ip": "10.0.1.1",
+      "ssh_password": "somepassword"
+    },
+    {
+      "name": "Car 2",
+      "ip": "10.0.1.2",
+      "ssh_password": "somepassword"
+    }
+  ],
+  "stream_width": 480,
+  "stream_height": 360,
+  "stream_quality": 50,
+  "port": 8080
+}
